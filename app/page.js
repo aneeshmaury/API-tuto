@@ -1,8 +1,9 @@
+import UseStatefun from './usestateuse'
 
-import YourComponent from './apitut'
 
 export default function Home() {
   return (
-    <YourComponent/>
+    <UseStatefun/>
+    
   )
 }
